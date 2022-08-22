@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/jisun-aurnob-55642619b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jisun aurnob" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Jisun.Abedin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jisun aurnob" height="30" width="40" /></a>
-<a href="https://instagram.com/jisun aurnob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jisun aurnob" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jisunaurnob/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jisun aurnob" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
