@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JisunAurnob?tab=repositories](https://github.com/JisunAurnob?tab=repositories)
 
-- 💬 Ask me about **Laravel, Asp .Net, React**
+- 💬 Ask me about **Laravel, React, Asp .Net**
 
 - 📫 How to reach me **jisunabedin@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ST6Fr8mR82T1HyGnAIHQdOcQOjorFYM5/view?usp=sharing](https://drive.google.com/file/d/1ST6Fr8mR82T1HyGnAIHQdOcQOjorFYM5/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZtZ9yuXk_6CDQ1LjWoJb56IOzG-WAp9E/view?usp=sharing](Jisun's Resume)
 
 - ⚡ Fun fact **I just believe in eating, coding, traveling & sleeping**
 
