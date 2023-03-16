@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jisunaurnob" alt="jisunaurnob" /></a> </p>
 
-- 🔭 I’m currently working on [restaurant management project](https://github.com/JisunAurnob/Restaurant-Management)
+- 🔭 I’m currently working on [Ultimate Organic Life](https://ultimateorganiclife.com/)
 
 - 🌱 I’m currently learning **React**
 
