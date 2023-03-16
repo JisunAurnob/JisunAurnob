@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jisunaurnob&label=Profile%20views&color=0e75b6&style=flat" alt="jisunaurnob" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jisunaurnob" alt="jisunaurnob" /></a> </p>
+<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=jisunaurnob" alt="jisunaurnob" /></a> </p>
 
 - 🔭 I’m currently working on [Ultimate Organic Life](https://ultimateorganiclife.com/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next JS**
 
 - 👯 I’m looking to collaborate on [ask & learn](https://github.com/JisunAurnob/AskNLearn-Web-API)
 
