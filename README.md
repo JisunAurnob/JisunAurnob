@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=jisunaurnob" alt="jisunaurnob" /></a> </p>
 
-- 🔭 I’m currently working on [Ultimate Organic Life](https://ultimateorganiclife.com/)
+- 🔭 I’m currently working on [FoodeXcart](https://foodexcart.com/)
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning advanced features of **Next JS** and **React JS**
 
 - 👯 I’m looking to collaborate on [ask & learn](https://github.com/JisunAurnob/AskNLearn-Web-API)
 
 - 👨‍💻 All of my projects are available at [https://github.com/JisunAurnob?tab=repositories](https://github.com/JisunAurnob?tab=repositories)
 
-- 💬 Ask me about **Laravel, React, Asp .Net**
+- 💬 Ask me about **Next JS, React JS, Laravel**
 
 - 📫 How to reach me **jisunabedin@gmail.com**
 
