@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=jisunaurnob" alt="jisunaurnob" /></a> </p>
 
-- 🔭 I’m currently working on [FoodeXcart](https://foodexcart.com/)
+- 🔭 I’m currently working on [SymamLaw - An Online Learning Platform](https://www.symamlaw.com/)
 
 - 🌱 I’m currently learning advanced features of **Next JS** and **React JS**
 
