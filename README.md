@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Jisun Abedin Aurnob</h1>
-<h3 align="center">Passionate in advancing my career as a Software Engineer in a competitive and fast-paced workplace.</h3>
+<h3 align="center"> I am passionate about building modern, scalable systems by adhering to proper standards in both frontend and
+ backend development. I aim to advance my career by delivering innovative and efficient solutions while staying at
+ the forefront of industry trends in a competitive, fast-paced workplace. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jisunaurnob&label=Profile%20views&color=0e75b6&style=flat" alt="jisunaurnob" /> </p>
 
