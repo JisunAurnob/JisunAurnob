@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **jisunabedin@gmail.com**
 
-- 📄 Know about my experiences [Jisun's Resume](https://drive.google.com/file/d/1ZtZ9yuXk_6CDQ1LjWoJb56IOzG-WAp9E/view?usp=sharing)
+- 📄 Know about my experiences [Jisun's Resume](https://drive.google.com/file/d/1WqejlutDWSfMHqxTcPgazx4l7l2mEhh3/view?usp=sharing)
 
 - ⚡ Fun fact **I just believe in eating, coding, traveling & sleeping**
 
